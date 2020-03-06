@@ -1,0 +1,14 @@
+timestamp: 0, value: 10
+timestamp: 1, value: 12
+timestamp: 1, value: 13
+timestamp: 1, value: 13
+timestamp: 1, value: 13
+count: 5, sum: 61, average: 12,200000
+timestamp: 1, value: 15
+timestamp: 2, value: 20
+timestamp: 2, value: 93
+timestamp: 5, value: 11
+timestamp: 7, value: 24
+count: 10, sum: 224, average: 22,400000
+timestamp: 7, value: 18
+count: 11, sum: 242, average: 22,000000

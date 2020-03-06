@@ -1,0 +1,19 @@
+[
+  [
+    {"timestamp": 0, "value": 10},
+    {"timestamp": 1, "value": 12},
+    {"timestamp": 5, "value": 11}
+  ],
+  [
+    {"timestamp": 2, "value": 20},
+    {"timestamp": 2, "value": 93},
+    {"timestamp": 7, "value": 24},
+    {"timestamp": 7, "value": 18}
+  ],
+  [
+    {"timestamp": 1, "value": 13},
+    {"timestamp": 1, "value": 13},
+    {"timestamp": 1, "value": 13},
+    {"timestamp": 1, "value": 15}
+  ]
+]
